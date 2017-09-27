@@ -1,0 +1,19 @@
+.Section {
+	display: inline-block;
+	margin: 0;
+	/*padding: 10px;*/
+	position: relative;
+}
+
+.Section--full {
+	width: 100%;
+}
+
+.Section--half {
+	min-width: 500px;
+	width: 50%;
+}
+
+.Section--bordered {
+	/*border: 2.5px solid black;*/
+}
